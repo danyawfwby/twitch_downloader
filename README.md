@@ -1,2 +1,2 @@
 # twitch_downloader
-This script should has ffmpeg with it in same folder
+This script should has ffmpeg with it in the folder "twitch downloader"
